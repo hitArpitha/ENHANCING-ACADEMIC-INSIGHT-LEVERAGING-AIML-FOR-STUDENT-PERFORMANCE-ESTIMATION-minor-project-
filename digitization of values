@@ -1,0 +1,17 @@
+Digitization of values:
+numerical_data()
+df
+
+Features scalling:
+feature_scaling(df)
+# Now we are ready for models training
+df
+
+
+Data visualisation:
+Data inspection:
+df.shape
+df.dropna().shape
+df.columns
+Features visualisation
+dfv['passed'].value_counts()
